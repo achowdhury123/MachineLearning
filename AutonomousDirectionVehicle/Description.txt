@@ -1,1 +1,1 @@
-
+The purpose of this project was a to design a robot vehicle that utilizes a neural network which has been taught to classify between right and left directional symbols. Utilizing the neural network, a Raspberry Pi camera, and an ultrasonic motion sensor, the robot can navigate autonomously using directional symbols.
