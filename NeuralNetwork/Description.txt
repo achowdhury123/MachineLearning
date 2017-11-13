@@ -1,1 +1,1 @@
-
+The following three layer artificial neural network is the first entry in what will eventually become a fully customized machine learning library. The neural network uses mini-batch gradient descent to adjust its parameters.
